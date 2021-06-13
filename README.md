@@ -1,11 +1,11 @@
-## Linux
-#### How to install Google-Chrome in Ubuntu 20.04
+# Linux
+## How to install Google-Chrome in Ubuntu 20.04
 Follow steps listed in https://linuxize.com/post/how-to-install-google-chrome-web-browser-on-ubuntu-20-04/
 
-#### How to install Visual Studio Code in Ubuntu 20.04
+## How to install Visual Studio Code in Ubuntu 20.04
 Follow the steps listed in https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/   . Ignore the line after sudo apt update
 
-#### How to install Python packages in Ubuntu 20.04
+## How to install Python packages in Ubuntu 20.04
 For the first time when I tried to install a package using the command pip3 install numpy. It gave error and said pip3 can not be found but can be installed using sudo apt install python3-pip. But I searched Google and confirmed the command (sudo apt install python3-pip) from this link: https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/    . So, pip3 can be installed using these two commands:
 ```
 sudo apt update
