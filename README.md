@@ -21,7 +21,7 @@ Installing collected packages: numpy
   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
 Successfully installed numpy-1.20.3
 ```
-So, I opened file manager, enabled the show hidden files option and opened the .bashrc file and at the end of the file in a new line I wrote (ie. appended to the file) according to this link https://techpiezo.com/python/install-python-packages-using-pip-in-ubuntu/   (last paragraph):
+So, I opened home in File Manager (default place where File Manager opens), enabled the show hidden files option and opened the .bashrc file and at the end of the file in a new line I wrote (ie. appended to the file) according to this link https://techpiezo.com/python/install-python-packages-using-pip-in-ubuntu/   (last paragraph):
 ```
 export PATH=/home/kasustav/.local/bin:$PATH
 ```
