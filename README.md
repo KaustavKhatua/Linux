@@ -35,3 +35,8 @@ pip3 install pandas
 ```
 No, warning comes.
 Also, other advantage of adding this folder to PATH is that, when I open Visual Studio Code I do not have to select interpreter, previously I had to do it, everytime I open Visual Studio Code.
+
+## Difference between apt and apt-get
+apt is newer method and apt-get is older method. See Conclusion portion from this link to get the idea. https://itsfoss.com/apt-vs-apt-get-difference/
+
+
