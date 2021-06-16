@@ -36,7 +36,11 @@ pip3 install pandas
 No, warning comes.
 Also, other advantage of adding this folder to PATH is that, when I open Visual Studio Code I do not have to select interpreter, previously I had to do it, everytime I open Visual Studio Code.
 
+## How to install Microsoft Teams in Ubuntu 20.04
+Download .deb package from Micrsoft Teams webpage. Install it by double clicking it.
+
 ## Difference between apt and apt-get
 apt is newer method and apt-get is older method. See Conclusion portion from this link to get the idea. https://itsfoss.com/apt-vs-apt-get-difference/
 
-
+## Difference between snap install and apt install
+snap is binding everything, the original software and its dependencies in one place; but apt does not do it. As a result, snap programs are generally bigger than apt programs and loads slower than apt programs.
