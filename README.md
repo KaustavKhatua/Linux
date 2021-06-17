@@ -8,13 +8,13 @@
     6. [MySQL Server and MySQL Workbench](#mysql-server-and-mysql-workbench)
  
 # Installations
-## Google Chrome
+### Google Chrome
 Follow steps listed in https://linuxize.com/post/how-to-install-google-chrome-web-browser-on-ubuntu-20-04/
 
-## Visual Studio Code
+### Visual Studio Code
 Follow the steps listed in https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/   . Ignore the line after sudo apt update
 
-## Python packages
+### Python packages
 For the first time when I tried to install a package using the command pip3 install numpy. It gave error and said pip3 can not be found but can be installed using sudo apt install python3-pip. But I searched Google and confirmed the command (sudo apt install python3-pip) from this link: https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/    . So, pip3 can be installed using these two commands:
 ```
 sudo apt update
@@ -45,10 +45,10 @@ pip3 install pandas
 No, warning comes.
 Also, other advantage of adding this folder to PATH is that, when I open Visual Studio Code I do not have to select interpreter, previously I had to do it, everytime I open Visual Studio Code.
 
-## Microsoft Teams
+### Microsoft Teams
 Download .deb package from Micrsoft Teams webpage. Install it by double clicking it.
 
-## MySQL Server and MySQL Workbench
+### MySQL Server and MySQL Workbench
 Follow the steps in this link: https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/  (I installed both MySQL Server and MySQL Workbench following this link).
 
 
