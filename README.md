@@ -8,8 +8,8 @@
     6. [MySQL Server and MySQL Workbench](#mysql-server-and-mysql-workbench)
  
 # Installations
-### Google Chrome
-Follow steps listed in https://linuxize.com/post/how-to-install-google-chrome-web-browser-on-ubuntu-20-04/
+    ### Google Chrome
+    Follow steps listed in https://linuxize.com/post/how-to-install-google-chrome-web-browser-on-ubuntu-20-04/
 
 ### Visual Studio Code
 Follow the steps listed in https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/   . Ignore the line after sudo apt update
