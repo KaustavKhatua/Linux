@@ -39,8 +39,16 @@ Also, other advantage of adding this folder to PATH is that, when I open Visual 
 ## How to install Microsoft Teams in Ubuntu 20.04
 Download .deb package from Micrsoft Teams webpage. Install it by double clicking it.
 
+## How to install MySQL Server and MySQL Workbench in Ubuntu 20.04
+Follow the steps in this link: https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/  (I installed both MySQL Server and MySQL Workbench following this link).
+
+
 ## Difference between apt and apt-get
 apt is newer method and apt-get is older method. See Conclusion portion from this link to get the idea. https://itsfoss.com/apt-vs-apt-get-difference/
 
 ## Difference between snap install and apt install
 snap is binding everything, the original software and its dependencies in one place; but apt does not do it. As a result, snap programs are generally bigger than apt programs and loads slower than apt programs.
+
+# Issues
+## Was not able to open Settings in Ubuntu 20.04
+I was not able to open any of the settings (like Change Background..., Network Settings etc.). Solved this problem following the instructions in this link: https://askubuntu.com/questions/1237965/reporting-i-cant-open-settings-in-ubuntu-20-04-lts  .
