@@ -1,6 +1,6 @@
 # Table of Contents
 1. Installations
-  1. [How to install Google-Chrome in Ubuntu 20.04](#how-to-install-google-chrome-in-ubuntu-20.04)
+  1. [How to install Google-Chrome in Ubuntu 20.04](#issues)
 ## How to install Google-Chrome in Ubuntu 20.04
 Follow steps listed in https://linuxize.com/post/how-to-install-google-chrome-web-browser-on-ubuntu-20-04/
 
