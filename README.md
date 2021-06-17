@@ -45,7 +45,7 @@ pip3 install pandas
 No, warning comes.
 Also, other advantage of adding this folder to PATH is that, when I open Visual Studio Code I do not have to select interpreter, previously I had to do it, everytime I open Visual Studio Code.
 
-### Microsoft Teams
+**Microsoft Teams**
 Download .deb package from Micrsoft Teams webpage. Install it by double clicking it.
 
 ### MySQL Server and MySQL Workbench
