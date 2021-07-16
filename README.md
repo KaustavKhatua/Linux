@@ -53,7 +53,7 @@ Download .deb package from Micrsoft Teams webpage. Install it by double clicking
 Follow the steps in this link: https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/  (I installed both MySQL Server and MySQL Workbench following this link).
 
 ### Java
-Follow the steps in https://linuxize.com/post/install-java-on-ubuntu-20-04/   . **I installed the openjdk-16 version**.
+Follow the steps in https://linuxize.com/post/install-java-on-ubuntu-20-04/   . **I installed the openjdk-16 version** by sudo apt install openjdk-16-jdk.
 
 
 ## Difference between apt and apt-get
