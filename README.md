@@ -7,6 +7,7 @@
     5. [Docker](#docker)
     6. [MySQL Server and MySQL Workbench](#mysql-server-and-mysql-workbench)
     7. [Java](#java)
+    8. [Draw on Your Screen](#draw-on-your-screen)
  
 # Installations
 ### Google Chrome
@@ -54,6 +55,9 @@ Follow the steps in this link: https://dev.mysql.com/doc/mysql-apt-repo-quick-gu
 
 ### Java
 Follow the steps in https://linuxize.com/post/install-java-on-ubuntu-20-04/   . **I installed the openjdk-16 version** by sudo apt install openjdk-16-jdk.
+
+### Draw on Your Screen
+Follow the steps in https://ubuntuhandbook.org/index.php/2021/02/start-drawing-on-screen-ubuntu-2004/   .
 
 
 ## Difference between apt and apt-get
