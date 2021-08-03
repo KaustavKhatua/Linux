@@ -8,6 +8,8 @@
     6. [MySQL Server and MySQL Workbench](#mysql-server-and-mysql-workbench)
     7. [Java](#java)
     8. [Draw on Your Screen](#draw-on-your-screen)
+2. Concepts
+    1. [Difference Between apt and apt-get](#difference-between-apt-and-apt-get)
  
 # Installations
 ### Google Chrome
@@ -65,6 +67,9 @@ apt is newer method and apt-get is older method. See Conclusion portion from thi
 
 ## Difference between snap install and apt install
 snap is binding everything, the original software and its dependencies in one place; but apt does not do it. As a result, snap programs are generally bigger than apt programs and loads slower than apt programs.
+
+## Understanding chmod command
+Read from this link: https://www.geeksforgeeks.org/chmod-command-linux/
 
 # Issues
 ## Was not able to open Settings in Ubuntu 20.04
