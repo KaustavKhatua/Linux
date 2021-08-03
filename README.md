@@ -12,6 +12,7 @@
     1. [Difference Between apt and apt-get](#difference-between-apt-and-apt-get)
     2. [Differnce Between snap-install and apt-install](#difference-between-snap-install-and-apt-install)
     3. [What Does chmod command do](#what-does-chmod-command-do)
+    4. [What is sudoers File](#what-is-sudoers-file)
  
 # Installations
 ### Google Chrome
@@ -72,6 +73,9 @@ snap is binding everything, the original software and its dependencies in one pl
 
 ## What does chmod command do
 Read from this link: https://www.geeksforgeeks.org/chmod-command-linux/
+
+## What is sudoers file
+Read from this link: https://www.linux.com/training-tutorials/configuring-linux-sudoers-file/
 
 # Issues
 ## Was not able to open Settings in Ubuntu 20.04
