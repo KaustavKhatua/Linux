@@ -10,6 +10,7 @@
     8. [Draw on Your Screen](#draw-on-your-screen)
 2. Concepts
     1. [Difference Between apt and apt-get](#difference-between-apt-and-apt-get)
+    2. [Differnce Between snap-install and apt-install](#difference-between-snap-install-and-apt-install)
  
 # Installations
 ### Google Chrome
