@@ -11,6 +11,7 @@
 2. Concepts
     1. [Difference Between apt and apt-get](#difference-between-apt-and-apt-get)
     2. [Differnce Between snap-install and apt-install](#difference-between-snap-install-and-apt-install)
+    3. [What Does chmod command do](#what-does-chmod-command-do)
  
 # Installations
 ### Google Chrome
@@ -69,7 +70,7 @@ apt is newer method and apt-get is older method. See Conclusion portion from thi
 ## Difference between snap install and apt install
 snap is binding everything, the original software and its dependencies in one place; but apt does not do it. As a result, snap programs are generally bigger than apt programs and loads slower than apt programs.
 
-## Understanding chmod command
+## What does chmod command do
 Read from this link: https://www.geeksforgeeks.org/chmod-command-linux/
 
 # Issues
